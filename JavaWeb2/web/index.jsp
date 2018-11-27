@@ -11,6 +11,6 @@
     <title>使用idea</title>
   </head>
   <body>
-    <h1 style="color: salmon">GUIG太丰富if</h1>
+    <h1 style="color: salmon">更好发挥发挥</h1>
   </body>
 </html>
